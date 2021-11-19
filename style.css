@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+h1 {
+    font-size: 50px;
+    color: wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 520px;
+    margin-top: 50px;
+}
+p {
+    margin-left: 550px;
+    margin-top: 50px;
+    color: black;
+}
+button {
+    margin-left: 580px;
+    margin-top: 20px;
+    background-color: rgb(92, 121, 134);
+    width: 180px;
+    height: 70px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    
+}
+body {
+    background: rgb(102, 102, 199) url(../img/job.jpg);
+}
